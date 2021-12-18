@@ -1,6 +1,6 @@
-package factorymethod;
+package FactoryMethod;
 
-public class Keitto implements Ruoka{
+public class Keitto implements Ruoka {
     @Override
     public String toString() {
         return "keitto";

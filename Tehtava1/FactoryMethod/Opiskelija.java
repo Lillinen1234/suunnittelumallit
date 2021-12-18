@@ -1,4 +1,4 @@
-package factorymethod;
+package FactoryMethod;
 
 public class Opiskelija extends AterioivaOtus{
 
